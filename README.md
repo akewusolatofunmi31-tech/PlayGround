@@ -3,7 +3,7 @@
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
-**Created using [OMGithub.com](https://go.ondev.store/).**
+**Remixed using [OMGithub.com](https://go.ondev.store/).**
 
 [![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://go.ondev.store/akewusolatofunmi31-tech/PlayGround)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/akewusolatofunmi31-tech/PlayGround)
@@ -15,6 +15,7 @@
 - 🐛 [Report an issue](https://github.com/akewusolatofunmi31-tech/PlayGround/issues).
 - 👤 [Explore the creator's projects](https://go.ondev.store/akewusolatofunmi31-tech).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
+- 🧬 [Explore the remix source](https://github.com/akewusolatofunmi31-tech/PlayGround/tree/158e7e4f73dfb55faa6f7f8f5dfa93510e6472e2).
 <!-- omgithub:readme:end -->
 
 ## Northside 5s
