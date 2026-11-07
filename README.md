@@ -16,3 +16,14 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/akewusolatofunmi31-tech).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## Northside 5s
+
+A self-contained, browser-playable five-a-side football match. Open `index.html` directly, or serve this folder locally with `python3 -m http.server 3002` and visit `http://localhost:3002`.
+
+- **Move:** WASD or arrow keys
+- **Shoot / tackle:** Space
+- **Pass:** Q
+- **Sprint:** Shift
+- **Pause:** P or the pause button
+- **Touch:** landscape joystick and on-screen action buttons
