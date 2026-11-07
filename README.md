@@ -19,11 +19,12 @@
 
 ## Northside 5s
 
-A self-contained, browser-playable five-a-side football match. Open `index.html` directly, or serve this folder locally with `python3 -m http.server 3002` and visit `http://localhost:3002`.
+A self-contained, browser-playable five-a-side football match focused on one player. Your teammates and the opposition are AI-controlled. Switch between a close third-person camera and a forward-facing first-person view with **V** (or the view button). Open `index.html` directly, or serve this folder locally with `python3 -m http.server 3002` and visit `http://localhost:3002`.
 
 - **Move:** WASD or arrow keys
 - **Shoot / tackle:** Space
 - **Pass:** Q
 - **Sprint:** Shift
+- **View:** V or the view button (third person / first person)
 - **Pause:** P or the pause button
 - **Touch:** landscape joystick and on-screen action buttons
